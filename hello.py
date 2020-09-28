@@ -1,2 +1,2 @@
-name=luca
+name='Giuseppe'
 print('hello %s!' % name)
